@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thomasfarineau&count_private=true&theme=city_lights)
+![Stats](https://github-readme-stats.vercel.app/api?username=thomasfarineau&count_private=true&theme=city_lights&show_icons=true)
 
 ![Counter](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfarineau&count_private=true&theme=city_lights)
 <!--
