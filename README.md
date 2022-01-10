@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thomasfarineau&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=thomasfarineau&count_private=true&theme=city_lights)
 
-![Counter](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfarineau&count_private=true)
+![Counter](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfarineau&count_private=true&theme=city_lights)
 <!--
 **ThomasFarineau/ThomasFarineau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
