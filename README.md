@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thomasfarineau&count_private=true&theme=city_lights&show_icons=true)
 
